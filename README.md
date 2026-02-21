@@ -2,7 +2,7 @@
 Danilo Azevedo de Souza
 Sou Brasileiro moro em uma pequena cidade do interior do Paraná.
 Nesse momento trabalho em sítio, mais pretendo me forma para policial militar.
-Já tenho um certo conhecimento sobre a área policial, mais pretendo ano que vem pretendo me aprofundar mais na área
+Já tenho um certo conhecimento sobre a área policial, mais pretendo ano que vem me aprofundar mais na área
 <!--
 **daniloazevedosouza-collab/daniloazevedosouza-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
